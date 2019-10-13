@@ -5,7 +5,8 @@ provider "google" {
 }
 
 provider "aws" {
-  region = "us-west2"
+  profile = "lil_deployer"
+  region = "us-west-2"
 }
 
 provider "azurerm" {

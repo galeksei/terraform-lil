@@ -4,3 +4,5 @@
 
 # Module Directory
 .terraform/
+
+.DS_Store
